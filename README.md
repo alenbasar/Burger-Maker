@@ -1,2 +1,7 @@
-# course-project-burger-app
-Burger building app that is going to progress as my React js skills progress.
+# Burger Maker
+
+## Description
+This is one of my first ReactJS projects. It's a simple app for building a burger where user can select ingredients and have it displayed with illustrated css artstyle, user also has an option to order the burger.
+
+![Burger Builder](https://user-images.githubusercontent.com/63575553/131985093-b95696d9-5f56-40f0-96e7-1a6fc6a71f4e.JPG)
+![Code](https://user-images.githubusercontent.com/63575553/131985099-d7da0fad-468b-4939-9b06-60ae30fadeb5.JPG)
