@@ -1,6 +1,6 @@
 # Burger Maker
 
-This is burger building app where user can select ingredients and have it displayed with illustrated css artstyle, user also has an option to order the burger.
+This is burger building app where user can select ingredients and have it displayed with illustrated css artstyle, user also has an option to order the burger
 
 ### Stack
 - JavaScript
